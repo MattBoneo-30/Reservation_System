@@ -6,6 +6,6 @@
 
 Note: This is only a Sample program.
 
- 
+  
 
 ![image](https://github.com/MattBoneo-30/Reservation_System/assets/127377325/b888bfd6-955b-4828-b22a-5250cfe431f2)
